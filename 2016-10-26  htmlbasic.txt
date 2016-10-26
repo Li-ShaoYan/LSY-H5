@@ -1,0 +1,26 @@
+01 html5basic 
+1.web是internet上的一种网页应用程序 它将各种服务于信息进行连接，并且提供了生动的图形用户界面。
+2.web的工作原理
+（1）基于B/S结构的模式  通过浏览器去访问服务器      
+       B（Browser） 浏览器   S (Server) 服务器   
+（2）基于C/S结构的模式  通过指定的客户端才能访问服务器  代表：QQ      
+       C (Client)   客户端         S (Server) 服务器
+3.web的组成由WEB服务器（Server），浏览器（Browser），通信协议（HTTP协议）
+ HTTP：Hyper Text Transfer Protocol  超文本传输协议它规定了数据是如何打包的以及数据在互联网上是如何传递的。
+ 服务器： Server 硬件强悍
+4.服务器与浏览器
+（1）服务器       
+    主要功能：存储web页面，提供托管环境。响应浏览器的请求，执行服务端  程序。       
+    主流的服务器软件：TOMCAT:Apache  IIS:微软  APACHE:Apache  
+ (2) 浏览器       
+    主要功能：UA（User Agent）用户代理  提交用户请求 解释html代码和脚本程序 使用图形化方式显示内容。
+    主要产品：Chrome：Google    IE:微软     Safri：Apple      Firefox：Mozilla    
+5.web相关技术
+（1）服务器端技术：只能运行在服务器端 所有的服务器技术都提供了数据库访问能力
+    php  jsp:Java Server Page   asp:Active Server Page   aspx:ASP.NET  
+(2) 客户端（浏览器）技术       
+    运行于客户端 由浏览器解释运行  html css Javascript
+6.HTML快速入门
+（1）概述：HTML Hyper Text Marup Language 超级文本标记语言
+                是以.html或者.htm作为结尾的
+（2）基本语法：在HTML中，用于描述功能的符号，称为标记，不通的标记具备不同的内容。
